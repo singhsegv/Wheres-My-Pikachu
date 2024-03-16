@@ -12,5 +12,7 @@ Lorem ipsum
 
 ## Todo
 
-- [ ] lorem
-- [x] ipsum
+- [ ] Add a licence
+- [ ] Add the code for ultralytics YOLO experiments
+- [ ] Add the code for tensorlfow object detection API experiments
+- [ ] Explore Meta's Segment Anything
